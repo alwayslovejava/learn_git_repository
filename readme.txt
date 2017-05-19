@@ -6,4 +6,4 @@ Git boss.
 Git cat.
 Git rabbit.
 Git k.
-Creating a new branch is quick and simple and cool and cute.
+Creating a new branch is quick and simple and cool and cute and fix and some.
